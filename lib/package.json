@@ -1,0 +1,14 @@
+{
+  "name": "febt",
+  "version": "1.0.0",
+  "description": "前端构建工具",
+  "devDependencies": {},
+  "author": "林伟健",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-uglify": "^3.2.1"
+  }
+}
